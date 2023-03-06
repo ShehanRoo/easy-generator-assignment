@@ -1,0 +1,14 @@
+{
+    "semi": true,
+    "trailingComma": "none",
+    "singleQuote": true,
+    "printWidth": 80,
+    "bracketSpacing": true,
+    "tabWidth": 2,
+    "useTabs": false,
+    "endOfLine": "auto",
+    "editor.formatOnSave": false,
+    "[typescript]": {
+      "editor.formatOnSave": true
+    }
+  }

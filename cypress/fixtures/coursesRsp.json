@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Cypress Automation Assignment Course EasyGenerator",
+    "author": "Shehan Ranatunga",
+    "imgURL": "/assets/images/courses/all-access-membership-complete-access-to-25-courses-and-counting_1622753364_all2.jpg",
+    "courseURL": "https://courses.rahulshettyacademy.com/p/get-access-to-all-courses",
+    "old_price": 15000,
+    "old_price_in_dollar": 199,
+    "actual_price": 7000,
+    "actual_price_in_dollar": 99,
+    "noOfCourses": 25,
+    "userEnrolled": 1200,
+    "userComments": 420,
+    "rate": 1,
+    "isBundle": true
+  },
+  {
+    "name": "Cypress Automation Stubbed API",
+    "author": "Shehan Ranatunga",
+    "imgURL": "/assets/images/courses/cypress-modern-automation-testing-from-scratch-framework_1622753096_cypress.jpg",
+    "courseURL": "https://courses.rahulshettyacademy.com/p/cypress-modern-automation-testing-from-scratch-framework",
+    "old_price": 7500,
+    "old_price_in_dollar": 99,
+    "actual_price": 999,
+    "actual_price_in_dollar": 19,
+    "noOfCourses": 1,
+    "userEnrolled": 1,
+    "userComments": 1,
+    "rate": 1
+  }
+]
